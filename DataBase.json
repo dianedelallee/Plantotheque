@@ -1,0 +1,68 @@
+{
+  "plantes": [
+    {
+      "Nom": "Euphorbe",
+      "Nom latin": "Synadenium",
+      "Hauteur": 30,
+      "Exposition": "soleil",
+      "Project": "Rolex creche",
+      "Image": "euphorbe"
+    },
+    {
+      "Nom": "Etoile de Noel",
+      "Nom latin": "Euphorbia pulcherrima",
+      "Hauteur": 30,
+      "Exposition": "ombragée",
+      "Project": "Rolex creche",
+      "Image": "etoileNoel.jpg"
+    },
+    {
+      "Nom": "Pavot",
+      "Nom latin": " Papaveraceae",
+      "Hauteur": 60,
+      "Exposition": "ombragée",
+      "Project": "Rolex creche",
+      "Image": "pavot.jpg"
+    },
+    {
+      "Nom": "plante vivace",
+      "Nom latin": "Crassula",
+      "Hauteur": 30,
+      "Exposition": "soleil",
+      "Project": "Toit concours",
+      "Image": "crassula.jpg"
+    },
+    {
+      "Nom": "Oeillet de poete",
+      "Nom latin": "Dianthus barbatus",
+      "Hauteur": 60,
+      "Exposition": "ombragée",
+      "Project": "Rolex creche",
+      "Image": "oeillet.jpg"
+    },
+    {
+      "Nom": "Hetre",
+      "Nom latin": "Fagus sylvatica",
+      "Hauteur": 400,
+      "Exposition": "ombragée",
+      "Project": "Rolex creche",
+      "Image": "hetre.jpg"
+    },
+    {
+      "Nom": "Dipladenia",
+      "Nom latin": "Dipladenia",
+      "Hauteur": 60,
+      "Exposition": "soleil",
+      "Project": "Rolex creche",
+      "Image": "dipladenia.jpg"
+    },
+     {
+      "Nom": "Platane",
+      "Nom latin": "",
+      "Hauteur": 60,
+      "Exposition": "soleil",
+      "Project": "Toit concours",
+       "Image": "platane.jpg"
+    }
+  ]
+}
